@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps:
 ## Installation
 1. **Clone the repository**
   ```bash
-  git clone https://github.com/Nipunkhattri/perflo_Perfume.git
+  git clone https://github.com/Aryan-Elite/Perflo-Perfume.git
   cd perflo_Perfume
   Install dependencies:
 
